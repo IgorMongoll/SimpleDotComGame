@@ -1,5 +1,8 @@
 package shilds_lessons_package;
 
+
+//Теперь у нас все устраивает и все это очень важно 
+
 public class MyException extends Exception {
 
 	private int detail;
